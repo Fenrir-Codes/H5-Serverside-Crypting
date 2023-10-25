@@ -1,0 +1,258 @@
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\appsettings.json
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.staticwebassets.runtime.json
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.exe
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.deps.json
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.runtimeconfig.json
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.pdb
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.csproj.AssemblyReference.cache
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.AssemblyInfoInputs.cache
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.AssemblyInfo.cs
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.RazorAssemblyInfo.cache
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.RazorAssemblyInfo.cs
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.H5-Serverside-Crypting.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.build.H5-Serverside-Crypting.props
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.H5-Serverside-Crypting.props
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.H5-Serverside-Crypting.props
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\bundle\H5-Serverside-Crypting.styles.css
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\projectbundle\H5-Serverside-Crypting.bundle.scp.css
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.csproj.CopyComplete
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\refint\H5-Serverside-Crypting.dll
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.pdb
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.genruntimeconfig.cache
+C:\Users\Tec\source\repos\H5-Serverside-Crypting\H5-Serverside-Crypting\obj\Debug\net7.0\ref\H5-Serverside-Crypting.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\appsettings.Development.json
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\appsettings.json
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.staticwebassets.runtime.json
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.exe
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.deps.json
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.runtimeconfig.json
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.pdb
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Azure.Core.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Azure.Identity.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Humanizer.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\System.CodeDom.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\System.Memory.Data.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.csproj.AssemblyReference.cache
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.GeneratedMSBuildEditorConfig.editorconfig
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.AssemblyInfoInputs.cache
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.AssemblyInfo.cs
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.csproj.CoreCompileInputs.cache
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.MvcApplicationPartsAssemblyInfo.cs
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.MvcApplicationPartsAssemblyInfo.cache
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.RazorAssemblyInfo.cache
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.RazorAssemblyInfo.cs
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.H5-Serverside-Crypting.Microsoft.AspNetCore.StaticWebAssets.props
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.build.H5-Serverside-Crypting.props
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.H5-Serverside-Crypting.props
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.H5-Serverside-Crypting.props
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets.pack.json
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets.build.json
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets.development.json
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\bundle\H5-Serverside-Crypting.styles.css
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\projectbundle\H5-Serverside-Crypting.bundle.scp.css
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.csproj.CopyComplete
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\refint\H5-Serverside-Crypting.dll
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.pdb
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.genruntimeconfig.cache
+H:\c# project reopsitories\H5-repos\Serverside todo\H5-Serverside-Crypting\obj\Debug\net7.0\ref\H5-Serverside-Crypting.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\appsettings.Development.json
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\appsettings.json
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.staticwebassets.runtime.json
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.exe
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.deps.json
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.runtimeconfig.json
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\H5-Serverside-Crypting.pdb
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Azure.Core.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Azure.Identity.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Humanizer.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\System.CodeDom.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\System.Memory.Data.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.csproj.AssemblyReference.cache
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.GeneratedMSBuildEditorConfig.editorconfig
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.AssemblyInfoInputs.cache
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.AssemblyInfo.cs
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.csproj.CoreCompileInputs.cache
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.MvcApplicationPartsAssemblyInfo.cs
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.MvcApplicationPartsAssemblyInfo.cache
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.RazorAssemblyInfo.cache
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.RazorAssemblyInfo.cs
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.H5-Serverside-Crypting.Microsoft.AspNetCore.StaticWebAssets.props
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.build.H5-Serverside-Crypting.props
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.H5-Serverside-Crypting.props
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.H5-Serverside-Crypting.props
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets.pack.json
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets.build.json
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\staticwebassets.development.json
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\bundle\H5-Serverside-Crypting.styles.css
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\scopedcss\projectbundle\H5-Serverside-Crypting.bundle.scp.css
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.csproj.CopyComplete
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\refint\H5-Serverside-Crypting.dll
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.pdb
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\H5-Serverside-Crypting.genruntimeconfig.cache
+H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\obj\Debug\net7.0\ref\H5-Serverside-Crypting.dll

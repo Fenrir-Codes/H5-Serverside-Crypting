@@ -1,0 +1,202 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.DataProtection;
+@using Microsoft.EntityFrameworkCore;
+@using H5_Serverside_Crypting.Models;
+@using System.Security.Claims
+@using H5_Serverside_Crypting.Services;
+
+@inject toDoContext _context
+@inject toDoService _service
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject IDataProtectionProvider IDataProtectionProvider
+@inject IConfiguration Configuration
+
+<PageTitle>Serverside crypting</PageTitle>
+
+<h1>H5 - Serverside crypting</h1>
+
+<div class="dialog" style="width: 100%; height: 30px; display: flex; text-align: center; justify-content: center; align-items: center; @BackgroundColorStyle">
+    @if (showDialog)
+    {   
+        @dialogMessage
+    }
+</div>
+
+
+@if (_authState.User.Identity != null && isAuthenticated)
+{
+    @if (_list.Count >= 1)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var todo in _list)
+                {
+                    <tr>
+                        <td>
+                            <input type="text" @bind=todo.Title />
+                        </td>
+                        <td>
+                            <input type="text" @bind=todo.Description />
+                        </td>
+                        <td>
+                            <button class="btn btn-primary" @onclick="() => Update(todo)">Update</button>
+                            <button class="btn btn-danger" @onclick="() => Delete(todo)">Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <label>No Items available</label>
+    }
+    <h3>Add new Entry</h3>
+    <label>Title</label>
+    <input type="text" @bind="_title" />
+    <label>Description</label>
+    <input type="text" @bind="_description" />
+    <button class="btn btn-primary" @onclick="Create">Add new</button>
+
+}
+else
+{
+    <label>Please login first.</label>
+
+}
+
+
+@code {
+    private AuthenticationState? _authState;
+    private List<toDoModel> _list = new List<toDoModel>();
+    private IDataProtector _protector;
+    private string _title = "";
+    private string _description = "";
+    private bool isAuthenticated = false;
+    private bool showDialog = false;
+    private bool isSuccess = false;
+    private string dialogMessage = "";
+    private string BackgroundColorStyle = "white";
+
+    #region OnInitialize
+    protected override async Task OnInitializedAsync()
+    {
+        _authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        if (_authState.User.Identity?.IsAuthenticated == true)
+        {
+            isAuthenticated = true;
+            await ReadData();
+        }
+        else
+        {
+            isAuthenticated = false;
+        }
+    }
+    #endregion
+
+    #region Reading the data from the todo table with the user claims
+    public async Task ReadData()
+    {
+        //Authenticating the user
+        var _user = _authState.User;
+        //Getting the data with the service call
+        _list = await _service.ReadData(_user);
+    }
+    #endregion
+
+    #region Create a new todo entry
+    private async Task Create()
+    {
+        if (isAuthenticated)
+        {
+            try
+            {
+                var _user = _authState.User;
+
+                toDoModel newEntry = new toDoModel
+                    {
+                        Title = _title,
+                        Description = _description,
+                        UserId = Guid.Parse(_user.FindFirstValue(ClaimTypes.NameIdentifier))
+                    };
+                await _service.Create(newEntry);
+                await ReadData();
+                await dialog("Successfully added a new entry.", true);
+            }
+            catch (Exception ex)
+            {
+
+                await dialog("An error ocurred! " + ex.Message, false);
+            };
+        }
+
+    }
+    #endregion
+
+    #region Update Entry
+    private async Task Update(toDoModel entry)
+    {
+        if (isAuthenticated)
+        {
+            try
+            {
+                var _user = _authState.User;
+                // Update the entry in the service
+                await _service.Update(entry);
+                // Reload the data asynchronously after the update
+                await ReadData();
+                // Display a success message
+                await dialog("Update was successful", true);
+            }
+            catch (Exception ex)
+            {
+                // Display an error message
+                await dialog("Update failed: " + ex.Message, false);
+            }
+        };
+    }
+    #endregion
+
+    #region Delete Entry function
+    private async Task Delete(toDoModel entry)
+    {
+        if (isAuthenticated)
+        {
+            try
+            {
+                await _service.Delete(entry);
+                await ReadData();
+                await dialog("Delete successful.", true);
+            }
+            catch (Exception ex)
+            {
+                await dialog("An error ocurred while deleteing! " + ex.Message, false);
+            }
+        }
+    }
+    #endregion
+
+    #region the dialog box on the top for showing messages
+    private async Task dialog(string text, bool success)
+    {
+        isSuccess = success;
+        BackgroundColorStyle = isSuccess ? "background-color: green;" : "red";
+        showDialog = true;
+        dialogMessage = text;
+        StateHasChanged(); // Force the component to re-render
+        await Task.Delay(1500);
+        showDialog = false;
+        StateHasChanged(); // Force the component to re-render
+        BackgroundColorStyle = "white";
+    }
+    #endregion
+
+}

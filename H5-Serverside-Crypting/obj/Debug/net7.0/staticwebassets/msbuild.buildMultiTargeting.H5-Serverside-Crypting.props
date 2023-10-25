@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\H5-Serverside-Crypting.props" />
+</Project>
