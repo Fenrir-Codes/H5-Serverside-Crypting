@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pJnuZQRHJhAUPkkYw1s41rOfolCQxvYfV+zMMNNDQVa8zK163ekXUXoDlVCMjctzpqbm4/PZp20B2ZRpxut7tg==",
+  "dgSpecHash": "6EdtgF9tCK1/BtPmQC9ih+oaQC+j0/I9RxVdQYokkIZ7OkQ3ReUjG0gGNNPBjnUn9LUiYpxmx/TR12wlPelDTw==",
   "success": true,
-  "projectFilePath": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj",
+  "projectFilePath": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joseph\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Joseph\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

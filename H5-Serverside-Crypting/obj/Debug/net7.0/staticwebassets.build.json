@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RVkdG4n4uNAv2N400inX8REGgapWLsyk4qQYAuKIgvc=",
+  "Hash": "mp4RMPR3L+LCmB3Lx71ufEfugPEg4pntEP6I45mbSqQ=",
   "Source": "H5-Serverside-Crypting",
   "BasePath": "_content/H5-Serverside-Crypting",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "H5-Serverside-Crypting\\wwwroot",
       "Source": "H5-Serverside-Crypting",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\Joseph\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.12\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\bundle\\H5-Serverside-Crypting.styles.css",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\bundle\\H5-Serverside-Crypting.styles.css",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Computed",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "H5-Serverside-Crypting.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\bundle\\H5-Serverside-Crypting.styles.css"
+      "OriginalItemSpec": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\bundle\\H5-Serverside-Crypting.styles.css"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\H5-Serverside-Crypting.bundle.scp.css",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\H5-Serverside-Crypting.bundle.scp.css",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Computed",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "H5-Serverside-Crypting.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\H5-Serverside-Crypting.bundle.scp.css"
+      "OriginalItemSpec": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\H5-Serverside-Crypting.bundle.scp.css"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\css\\site.css",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\css\\site.css",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\favicon.png",
+      "Identity": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\favicon.png",
       "SourceId": "H5-Serverside-Crypting",
       "SourceType": "Discovered",
-      "ContentRoot": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\wwwroot\\",
+      "ContentRoot": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\wwwroot\\",
       "BasePath": "_content/H5-Serverside-Crypting",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

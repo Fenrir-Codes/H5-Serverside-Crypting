@@ -8,7 +8,7 @@ namespace H5_Serverside_Crypting.Services
 {
     public class toDoService
     {
-        private readonly string _secret;
+        private string _secret;
         private readonly toDoContext _context;
         private readonly IDataProtector _dataProtector;
 

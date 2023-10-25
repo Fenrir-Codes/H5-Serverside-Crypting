@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = H5_Serverside_Crypting
 build_property.RootNamespace = H5_Serverside_Crypting
-build_property.ProjectDir = H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting\
+build_property.ProjectDir = H:\GitHub repositories\H5-Serverside-Crypting\H5-Serverside-Crypting\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = H:\c# project reopsitories\H5-repos\Serverside Encryption - H5\H5-Serverside-Crypting
+build_property.MSBuildProjectDirectory = H:\GitHub repositories\H5-Serverside-Crypting\H5-Serverside-Crypting
 build_property._RazorSourceGeneratorDebug = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/App.razor]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Pages/Counter.razor]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Pages/FetchData.razor]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Pages/Index.razor]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Shared/LoginDisplay.razor]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Shared/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Shared/SurveyPrompt.razor]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/_Imports.razor]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Shared/MainLayout.razor]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-di0nvca0k2
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Shared/NavMenu.razor]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3hslo9y6or
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Areas/Identity/Pages/Account/LogOut.cshtml]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Areas/Identity/Pages/Account/LogOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Pages/Error.cshtml]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[H:/c\# project reopsitories/H5-repos/Serverside Encryption - H5/H5-Serverside-Crypting/Pages/_Host.cshtml]
+[H:/GitHub repositories/H5-Serverside-Crypting/H5-Serverside-Crypting/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj": {}
+    "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj": {}
   },
   "projects": {
-    "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj": {
+    "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj",
+        "projectUniqueName": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj",
         "projectName": "H5-Serverside-Crypting",
-        "projectPath": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj",
+        "projectPath": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\H5-Serverside-Crypting.csproj",
         "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
-        "outputPath": "H:\\c# project reopsitories\\H5-repos\\Serverside Encryption - H5\\H5-Serverside-Crypting\\obj\\",
+        "outputPath": "H:\\GitHub repositories\\H5-Serverside-Crypting\\H5-Serverside-Crypting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
