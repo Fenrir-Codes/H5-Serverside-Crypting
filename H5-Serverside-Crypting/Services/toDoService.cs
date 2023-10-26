@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Net.Sockets;
 using System.Security.Claims;
 using System.Security.Cryptography;
+using System.Text;
 
 namespace H5_Serverside_Crypting.Services
 {
@@ -148,17 +149,26 @@ namespace H5_Serverside_Crypting.Services
         #endregion
 
         #region Hash function
-        public async Task<string> MD5Hashing(string input)
+        public async Task<string> MD5Hashing(string input, string previousHash)
         {
             try
             {
                 using (MD5 md5 = MD5.Create())
                 {
-                    byte[] inputBytes = System.Text.Encoding.ASCII.GetBytes(input);
+                    byte[] inputBytes = Encoding.ASCII.GetBytes(input);
                     byte[] hashBytes = md5.ComputeHash(inputBytes);
+                    string Hash = BitConverter.ToString(hashBytes).Replace("-", string.Empty);
 
-                    string hash = Convert.ToHexString(hashBytes);
-                    return $"{hash}";
+                    if (Hash != previousHash)
+                    {
+                        // Hash has changed, you may want to update the previousHash value here.
+                        // For example, if you have a database, you can store the newHash there.
+                        return $"{Hash}";
+                    }
+                    else
+                    {
+                        return $"{Hash} There was no change in hashing.";
+                    }
                 }
             }
             catch (Exception ex)

@@ -87,6 +87,7 @@
             </table>
             <div>
                 <div style="text-align:center; vertical-align:middle ;height:fit-content">MD5 Hash:  <p>@_hashResult</p> </div>
+                <p></p>
             </div>
 
         </div>
@@ -118,6 +119,7 @@
     private bool isAuthenticated = false;
     private bool showDialog = false;
     private string dialogMessage = "";
+    private string previousHash = "";
 
 
     #region OnInitialize
@@ -200,7 +202,16 @@
     #region Hash function call
     private async Task HashWithMD5()
     {
-        _hashResult = await _service.MD5Hashing(_inputToHash);
+        // Retrieve the previous hash from your in-memory storage
+        string storedPreviousHash = _hashResult;
+
+        _hashResult = await _service.MD5Hashing(_inputToHash, storedPreviousHash);
+
+        // If the hash has changed, update the previous hash in your in-memory storage
+        if (_hashResult != storedPreviousHash)
+        {
+            previousHash = _hashResult;
+        }
     }
     #endregion
 
