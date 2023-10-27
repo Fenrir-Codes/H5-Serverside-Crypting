@@ -164,6 +164,8 @@
     {
         if (isAuthenticated)
         {
+            titleChanged = false;
+            descriptionChanged = false;
             var _user = _authState.User;
             // Update the entry in the service
             dialogMessage = await _service.Update(entry);
@@ -171,8 +173,7 @@
             await ReadData();
             // Display a success message
             await dialog(dialogMessage);
-            titleChanged = false;
-            descriptionChanged = false; 
+
         };
     }
     #endregion
