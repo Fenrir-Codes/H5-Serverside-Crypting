@@ -48,13 +48,13 @@
                             {
                                 <tr>
                                     <td>
-                                        <input type="text" @bind=todo.Title />
+                                        <input type="text" @bind=todo.Title @oninput="() => { titleChanged = true; }" />
                                     </td>
                                     <td>
-                                        <input type="text" @bind=todo.Description />
+                                        <input type="text" @bind=todo.Description @oninput="() => { descriptionChanged = true; }" />
                                     </td>
                                     <td>
-                                        <button class="btn btn-primary" @onclick="() => Update(todo)">Update</button>
+                                        <button class="btn btn-primary" disabled="@(!hasChanges)" @onclick="() => Update(todo)">Update</button>
                                         <button class="btn btn-danger" @onclick="() => Delete(todo)">Delete</button>
                                     </td>
                                 </tr>
@@ -76,21 +76,6 @@
 
         </div>
 
-        <div class="hashField">
-            <table>
-                <tr>
-                    <td>Input Text:</td>
-                    <td><input @bind="_inputToHash"/></td>
-                    <td> <button @onclick="HashWithMD5">Make hash</button></td>
-                </tr>
-                
-            </table>
-            <div>
-                <div style="text-align:center; vertical-align:middle ;height:fit-content">MD5 Hash:  <p>@_hashResult</p> </div>
-                <p></p>
-            </div>
-
-        </div>
     }
 
 
@@ -120,6 +105,9 @@
     private bool showDialog = false;
     private string dialogMessage = "";
     private string previousHash = "";
+    private bool titleChanged = false;
+    private bool descriptionChanged = false;
+    private bool hasChanges => titleChanged || descriptionChanged;
 
 
     #region OnInitialize
@@ -183,6 +171,8 @@
             await ReadData();
             // Display a success message
             await dialog(dialogMessage);
+            titleChanged = false;
+            descriptionChanged = false; 
         };
     }
     #endregion
@@ -199,21 +189,21 @@
     }
     #endregion
 
-    #region Hash function call
-    private async Task HashWithMD5()
-    {
-        // Retrieve the previous hash from your in-memory storage
-        string storedPreviousHash = _hashResult;
+    // #region Hash function call
+    // private async Task HashWithMD5()
+    // {
+    //     // Retrieve the previous hash from your in-memory storage
+    //     string storedPreviousHash = _hashResult;
 
-        _hashResult = await _service.MD5Hashing(_inputToHash, storedPreviousHash);
+    //     _hashResult = await _service.MD5Hashing(_inputToHash, storedPreviousHash);
 
-        // If the hash has changed, update the previous hash in your in-memory storage
-        if (_hashResult != storedPreviousHash)
-        {
-            previousHash = _hashResult;
-        }
-    }
-    #endregion
+    //     // If the hash has changed, update the previous hash in your in-memory storage
+    //     if (_hashResult != storedPreviousHash)
+    //     {
+    //         previousHash = _hashResult;
+    //     }
+    // }
+    // #endregion
 
     #region the dialog box on the top for showing messages
     private async Task dialog(string text)

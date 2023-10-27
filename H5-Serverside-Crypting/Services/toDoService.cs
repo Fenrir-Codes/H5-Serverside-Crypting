@@ -31,12 +31,30 @@ namespace H5_Serverside_Crypting.Services
         {
             try
             {
-                // Encrypting data before storing in the database
+                // Concatenate Title and Description
+                string concatenatedString = string.Concat(todo.Title, todo.Description);
+
+                // Calculate MD5 hash from the concatenated string
+                using (MD5 md5 = MD5.Create())
+                {
+                    byte[] hashBytes = md5.ComputeHash(Encoding.UTF8.GetBytes(concatenatedString));
+                    StringBuilder sb = new StringBuilder();
+
+                    for (int i = 0; i < hashBytes.Length; i++)
+                    {
+                        sb.Append(hashBytes[i].ToString("x2"));
+                    }
+
+                    // Set the HashValue property to the computed MD5 hash
+                    todo.HashValue = sb.ToString();
+                }
+
+                // Encrypt Title and Description before storing in the database
                 todo.Title = _dataProtector.Protect(todo.Title);
                 todo.Description = _dataProtector.Protect(todo.Description);
 
-                _context.toDo.Add(todo); // add input to context variables
-                await _context.SaveChangesAsync(); // save data
+                _context.toDo.Add(todo); // Add input to context variables
+                await _context.SaveChangesAsync(); // Save data
 
                 return $"New entry created";
             }
@@ -67,7 +85,7 @@ namespace H5_Serverside_Crypting.Services
         }
         #endregion
 
-        #region Update async function
+        #region Update function with hashCheck
         public async Task<string> Update(toDoModel todo)
         {
             try
@@ -77,43 +95,40 @@ namespace H5_Serverside_Crypting.Services
                 // If the response is not null
                 if (entry != null)
                 {
-                    //First we have to unprotect the string for compilation what we have
-                    var title = _dataProtector.Unprotect(entry.Title);
-                    var desc = _dataProtector.Unprotect(entry.Description);
-
-                    var changedEntry = new toDoModel
+                    // Calculate the new MD5 hash from the concatenated string
+                    using (MD5 md5 = MD5.Create())
                     {
-                        id = entry.id,
-                        Title = entry.Title,
-                        Description = entry.Description,
-                        UserId = entry.UserId
-                    };
+                        // Concatenate the new Title and Description
+                        string concatenatedString = string.Concat(todo.Title, todo.Description);
 
+                        byte[] hashBytes = md5.ComputeHash(Encoding.UTF8.GetBytes(concatenatedString));
+                        StringBuilder sb = new StringBuilder();
 
-                    // If the response Title has changed, the protector will encrypt the changed input
-                    if (title != todo.Title || desc != todo.Description)
-                    {
-                        hasChanges = true;
-
-                        if (entry.Title != todo.Title)
+                        for (int i = 0; i < hashBytes.Length; i++)
                         {
-                            changedEntry.Title = _dataProtector.Protect(todo.Title);
+                            sb.Append(hashBytes[i].ToString("x2"));
                         }
 
-                        if (entry.Description != todo.Description)
+                        // Compare the new hash with the existing HashValue
+                        if (sb.ToString() != entry.HashValue)
                         {
-                            changedEntry.Description = _dataProtector.Protect(todo.Description);
+                            // The hash values are different, indicating changes in Title or Description
+                            hasChanges = true;
+
+                            // Update the Title and Description, and save the changes
+                            entry.Title = _dataProtector.Protect(todo.Title);
+                            entry.Description = _dataProtector.Protect(todo.Description);
+                            entry.HashValue = sb.ToString(); // Update the HashValue
+
+                            _context.Entry(entry).State = EntityState.Modified;
+                            await _context.SaveChangesAsync();
+
+                            return "Update successful";
                         }
-
-                        _context.Entry(entry).State = EntityState.Detached;
-                        _context.Entry(changedEntry).State = EntityState.Modified;
-                        await _context.SaveChangesAsync();
-
-                        return "Update successful";
-                    }
-                    else
-                    {
-                        return "No changes made"; // Return a message when no changes were made
+                        else
+                        {
+                            return "No changes made"; // Return a message when no changes were made
+                        }
                     }
                 }
 
@@ -144,36 +159,6 @@ namespace H5_Serverside_Crypting.Services
             catch (Exception ex)
             {
                 return $"Error: {ex.Message}";
-            }
-        }
-        #endregion
-
-        #region Hash function
-        public async Task<string> MD5Hashing(string input, string previousHash)
-        {
-            try
-            {
-                using (MD5 md5 = MD5.Create())
-                {
-                    byte[] inputBytes = Encoding.ASCII.GetBytes(input);
-                    byte[] hashBytes = md5.ComputeHash(inputBytes);
-                    string Hash = BitConverter.ToString(hashBytes).Replace("-", string.Empty);
-
-                    if (Hash != previousHash)
-                    {
-                        // Hash has changed, you may want to update the previousHash value here.
-                        // For example, if you have a database, you can store the newHash there.
-                        return $"{Hash}";
-                    }
-                    else
-                    {
-                        return $"{Hash} There was no change in hashing.";
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                return $"An error occurred! {ex.Message}";
             }
         }
         #endregion

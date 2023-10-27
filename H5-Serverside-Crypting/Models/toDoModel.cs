@@ -11,6 +11,8 @@ namespace H5_Serverside_Crypting.Models
 
         public string Description { get; set; }
 
+        public string HashValue { get; set; }
+
         public Guid UserId { get; set; }
     }
 }
